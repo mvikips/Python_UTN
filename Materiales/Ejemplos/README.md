@@ -68,16 +68,16 @@ Para replicar, testear y auditar estos scripts en tu entorno local:
 ```
 bash
     git clone [https://github.com/mvikips/Python_UTN.git](https://github.com/mvikips/Python_UTN.git)
-    ```
+```
 2.  **Navegar hasta el directorio de ejercicios**:
-```bash
+```
+bash
     cd Python_UTN/Materiales/Ejercicios
-    ```
+```
 3.  **Ejecutar el script deseado** utilizando el intérprete de Python instalado:
-```bash
+```
+bash
     python nombre_del_archivo.py
-    ```
-    ```
 ```
 
 
